@@ -1,4 +1,4 @@
-# Evaluando el impacto de RappiPlus con datos
+# End-to-End Product & Growth Analytics Pipeline: From Raw Data to Executive Dashboard
 
 ## Desafío
 RappiPlus se diseñó como un servicio de suscripción para aumentar la frecuencia de compra y el valor generado por cada usuario dentro del ecosistema de Rappi. Sin embargo, el equipo de negocio no tenía certeza de si la membresía realmente estaba cumpliendo su objetivo. 
